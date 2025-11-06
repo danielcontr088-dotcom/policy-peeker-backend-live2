@@ -1,0 +1,5 @@
+node_modules # tells Git to never upload it
+.env # hides your secrets file too
+node_modules
+.env
+.env
